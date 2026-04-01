@@ -104,12 +104,6 @@ Completed within **two weeks**, requiring fast development and teamwork.
 
 ---
 
-## 🔒 Source Code
-
-⚠️ Source code is private and available upon request.
-
----
-
 ## ⭐ Highlights
 
 * Full mobile app workflow
