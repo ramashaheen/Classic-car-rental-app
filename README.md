@@ -25,7 +25,7 @@ It was developed as a team project to build a real-world mobile application expe
 
 ### 📱 Splash Screen
 
-![Splash](screenshots/splash.png)
+![Splash](screebshots/splash.png)
 
 ---
 
@@ -33,7 +33,7 @@ It was developed as a team project to build a real-world mobile application expe
 
 | Login                           | Login 2                           | Register                              |
 | ------------------------------- | --------------------------------- | ------------------------------------- |
-| ![Login](screenshots/login.png) | ![Login2](screenshots/login2.png) | ![Register](screenshots/register.png) |
+| ![Login](screebshots/login.png) | ![Login2](screebshots/login2.png) | ![Register](screebshots/register.png) |
 
 ---
 
@@ -41,15 +41,15 @@ It was developed as a team project to build a real-world mobile application expe
 
 | Main Page                      | Car List                         |
 | ------------------------------ | -------------------------------- |
-| ![Main](screenshots/main1.png) | ![Cars](screenshots/carList.png) |
+| ![Main](screebshots/main1.png) | ![Cars](screebshots/carList.png) |
 
 | Car Info                         | Booking                             |
 | -------------------------------- | ----------------------------------- |
-| ![Info](screenshots/carinfo.png) | ![Booking](screenshots/booking.png) |
+| ![Info](screebshots/carinfo.png) | ![Booking](screebshots/booking.png) |
 
 | Profile                             | Find Us                           | About Us                          |
 | ----------------------------------- | --------------------------------- | --------------------------------- |
-| ![Profile](screenshots/profile.png) | ![FindUs](screenshots/findUs.png) | ![About](screenshots/aboutUs.png) |
+| ![Profile](screebshots/profile.png) | ![FindUs](screebshots/findUs.png) | ![About](screebshots/aboutUs.png) |
 
 ---
 
@@ -57,7 +57,7 @@ It was developed as a team project to build a real-world mobile application expe
 
 | Step 1                          | Step 2                          | Step 3                          |
 | ------------------------------- | ------------------------------- | ------------------------------- |
-| ![Rent1](screenshots/rent1.png) | ![Rent2](screenshots/rent2.png) | ![Rent3](screenshots/rent3.png) |
+| ![Rent1](screebshots/rent1.png) | ![Rent2](screebshots/rent2.png) | ![Rent3](screebshots/rent3.png) |
 
 ---
 
@@ -65,7 +65,7 @@ It was developed as a team project to build a real-world mobile application expe
 
 | Admin Dashboard                     | Reports                                 |
 | ----------------------------------- | --------------------------------------- |
-| ![Admin](screenshots/mainadmin.png) | ![Reports](screenshots/reportadmin.png) |
+| ![Admin](screenbshots/mainadmin.png) | ![Reports](screebshots/reportadmin.png) |
 
 ---
 
