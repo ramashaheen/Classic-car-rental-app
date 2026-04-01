@@ -63,9 +63,9 @@ It was developed as a team project to build a real-world mobile application expe
 
 ### ⚙️ Admin Interface
 
-| Admin Dashboard                     | Reports                                 |
-| ----------------------------------- | --------------------------------------- |
-| ![Admin](screenbshots/mainadmin.png) | ![Reports](screebshots/reportadmin.png) |
+| Reports                                 |
+| --------------------------------------- |
+| ![Reports](screebshots/reportadmin.png) |
 
 ---
 
