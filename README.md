@@ -83,9 +83,9 @@ It was developed as a team project to build a real-world mobile application expe
 ## 🛠️ Technologies Used
 
 * Android Studio
-* Java / Kotlin
+* Java 
 * XML (UI Layouts)
-* Firebase / SQLite (adjust if needed)
+* Firebase 
 
 ---
 
@@ -100,7 +100,7 @@ It was developed as a team project to build a real-world mobile application expe
 ## 📚 Project Context
 
 Developed as part of an **Android Development course**.
-Completed within **two weeks**, requiring fast development and teamwork.
+requiring fast development and teamwork.
 
 ---
 
